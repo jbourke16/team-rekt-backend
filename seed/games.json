@@ -1,0 +1,93 @@
+[
+    {
+    "Name": "The Legend of Zelda: Breath of the Wild",
+    "Genre": "Action-adventure",
+    "Console": ["Nintendo Switch", "Wii U"],
+    "Release": "March 3, 2017",
+    "Bio": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo. It is the nineteenth installment in The Legend of Zelda series. The game takes place in a large open world environment and follows Link, who awakens from a century-long slumber to defeat Calamity Ganon and save the kingdom of Hyrule."
+  },
+  {
+    "Name": "The Witcher 3: Wild Hunt",
+    "Genre": "Action role-playing",
+    "Console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch"],
+    "Release": "May 19, 2015",
+    "Bio": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt. It is the third main installment in The Witcher series. Players control Geralt of Rivia, a monster hunter known as a Witcher, who is searching for his missing adopted daughter on the run from the Wild Hunt: an otherworldly force determined to capture her."
+  },
+  {
+    "Name": "Super Mario Odyssey",
+    "Genre": "Platformer",
+    "Console": ["Nintendo Switch"],
+    "Release": "October 27, 2017",
+    "Bio": "Super Mario Odyssey is a platform game developed and published by Nintendo for the Nintendo Switch. It is the sixteenth installment in the Super Mario series. In the game, Mario sets out on a journey through various worlds to rescue Princess Peach from Bowser, who plans to marry her."
+  },
+  {
+    "Name": "Red Dead Redemption 2",
+    "Genre": "Action-adventure",
+    "Console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Google Stadia"],
+    "Release": "October 26, 2018",
+    "Bio": "Red Dead Redemption 2 is an action-adventure game developed and published by Rockstar Games. It is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption. The game follows Arthur Morgan, a member of the Van der Linde gang, as he deals with the decline of the Wild West and his own moral choices."
+  },
+  {
+    "Name": "Overwatch",
+    "Genre": "First-person shooter",
+    "Console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch"],
+    "Release": "May 24, 2016",
+    "Bio": "Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. The game features a diverse cast of heroes, each with their own unique abilities, and players work together in teams to complete objectives. Overwatch emphasizes cooperative gameplay and teamwork."
+  },
+  {
+    "Name": "Minecraft",
+    "Genre": "Sandbox, survival",
+    "Console": ["Multiple platforms"],
+    "Release": "November 18, 2011",
+    "Bio": "Minecraft is a sandbox video game developed and published by Mojang Studios. Players can build and explore virtual worlds made up of blocks and engage in various activities such as crafting, resource gathering, and combat. The game has a creative mode where players have unlimited resources to build and a survival mode where they must fend off enemies and manage resources."
+  },
+  {
+    "Name": "The Last of Us Part II",
+    "Genre": "Action-adventure, survival horror",
+    "Console": ["PlayStation 4"],
+    "Release": "June 19, 2020",
+    "Bio": "The Last of Us Part II is an action-adventure game developed by Naughty Dog and published by Sony Interactive Entertainment. It is the sequel to the 2013 game The Last of Us. Set five years after the events of the first game, players control Ellie as she embarks on a quest for revenge in a post-apocalyptic United States."
+  },
+  {
+    "Name": "Fortnite",
+    "Genre": "Battle royale, sandbox",
+    "Console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch", "iOS", "Android"],
+    "Release": "July 25, 2017",
+    "Bio": "Fortnite is a battle royale game developed and published by Epic Games. Players skydive onto an island and scavenge for weapons and resources to defend themselves from other players and survive. The game also features a creative mode where players can build structures and design their own games."
+  },
+  {
+    "Name": "Call of Duty: Modern Warfare",
+    "Genre": "First-person shooter",
+    "Console": ["PlayStation 4", "Xbox One", "Microsoft Windows"],
+    "Release": "October 25, 2019",
+    "Bio": "Call of Duty: Modern Warfare is a first-person shooter game developed by Infinity Ward and published by Activision. It is a reboot of the Modern Warfare sub-series and features a more realistic and mature tone compared to previous entries. The game includes a single-player campaign, multiplayer modes, and cooperative Spec Ops mode."
+  },
+  {
+    "Name": "Animal Crossing: New Horizons",
+    "Genre": "Life simulation",
+    "Console": ["Nintendo Switch"],
+    "Release": "March 20, 2020",
+    "Bio": "Animal Crossing: New Horizons is a life simulation game developed and published by Nintendo. Players move to a deserted island and develop it into a community of anthropomorphic animals. The game features real-time gameplay and emphasizes activities such as fishing, bug catching, and decorating."
+  },
+  {
+    "Name": "FIFA 21",
+    "Genre": "Sports",
+    "Console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch"],
+    "Release": "October 9, 2020",
+    "Bio": "FIFA 21 is a football simulation game developed and published by Electronic Arts as part of the FIFA series. The game features licensed real-life players, teams, and stadiums from around the world. Players can compete in various modes such as career mode, Ultimate Team, and Volta Football."
+  },
+  {
+    "Name": "Assassin's Creed Valhalla",
+    "Genre": "Action-adventure, stealth",
+    "Console": ["PlayStation 4", "Xbox One", "PlayStation 5", "Xbox Series X/S", "Microsoft Windows"],
+    "Release": "November 10, 2020",
+    "Bio": "Assassin's Creed Valhalla is an action-adventure game developed and published by Ubisoft. Set in the Viking Age, players control Eivor, a Viking raider who becomes embroiled in the conflict between the Brotherhood of Assassins and the Templar Order. The game features open-world exploration, combat, and stealth mechanics."
+  },
+  {
+    "Name": "Cyberpunk 2077",
+    "Genre": "Action role-playing",
+    "Console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Google Stadia"],
+    "Release": "December 10, 2020",
+    "Bio": "Cyberpunk 2077 is an action role-playing game developed and published by CD Projekt. Set in the dystopian Night City, players assume the role of V, a mercenary outlaw searching for a one-of-a-kind implant that holds the key to immortality. The game features a branching storyline and open-world exploration."
+  }
+]
