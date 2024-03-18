@@ -1,5 +1,5 @@
 [
-    {
+  {
     "name": "The Legend of Zelda: Breath of the Wild",
     "genre": "Action-adventure",
     "console": ["Nintendo Switch", "Wii U"],
@@ -9,7 +9,12 @@
   {
     "name": "The Witcher 3: Wild Hunt",
     "genre": "Action role-playing",
-    "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch"],
+    "console": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Nintendo Switch"
+    ],
     "release": "May 19, 2015",
     "bio": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt. It is the third main installment in The Witcher series. Players control Geralt of Rivia, a monster hunter known as a Witcher, who is searching for his missing adopted daughter on the run from the Wild Hunt: an otherworldly force determined to capture her."
   },
@@ -23,14 +28,24 @@
   {
     "name": "Red Dead Redemption 2",
     "genre": "Action-adventure",
-    "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Google Stadia"],
+    "console": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Google Stadia"
+    ],
     "release": "October 26, 2018",
     "bio": "Red Dead Redemption 2 is an action-adventure game developed and published by Rockstar Games. It is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption. The game follows Arthur Morgan, a member of the Van der Linde gang, as he deals with the decline of the Wild West and his own moral choices."
   },
   {
     "name": "Overwatch",
     "genre": "First-person shooter",
-    "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch"],
+    "console": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Nintendo Switch"
+    ],
     "release": "May 24, 2016",
     "bio": "Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. The game features a diverse cast of heroes, each with their own unique abilities, and players work together in teams to complete objectives. Overwatch emphasizes cooperative gameplay and teamwork."
   },
@@ -51,7 +66,14 @@
   {
     "name": "Fortnite",
     "genre": "Battle royale, sandbox",
-    "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch", "iOS", "Android"],
+    "console": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Nintendo Switch",
+      "iOS",
+      "Android"
+    ],
     "release": "July 25, 2017",
     "bio": "Fortnite is a battle royale game developed and published by Epic Games. Players skydive onto an island and scavenge for weapons and resources to defend themselves from other players and survive. The game also features a creative mode where players can build structures and design their own games."
   },
@@ -72,21 +94,37 @@
   {
     "name": "FIFA 21",
     "genre": "Sports",
-    "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch"],
+    "console": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Nintendo Switch"
+    ],
     "release": "October 9, 2020",
     "bio": "FIFA 21 is a football simulation game developed and published by Electronic Arts as part of the FIFA series. The game features licensed real-life players, teams, and stadiums from around the world. Players can compete in various modes such as career mode, Ultimate Team, and Volta Football."
   },
   {
     "name": "Assassin's Creed Valhalla",
     "genre": "Action-adventure, stealth",
-    "console": ["PlayStation 4", "Xbox One", "PlayStation 5", "Xbox Series X/S", "Microsoft Windows"],
+    "console": [
+      "PlayStation 4",
+      "Xbox One",
+      "PlayStation 5",
+      "Xbox Series X/S",
+      "Microsoft Windows"
+    ],
     "release": "November 10, 2020",
     "bio": "Assassin's Creed Valhalla is an action-adventure game developed and published by Ubisoft. Set in the Viking Age, players control Eivor, a Viking raider who becomes embroiled in the conflict between the Brotherhood of Assassins and the Templar Order. The game features open-world exploration, combat, and stealth mechanics."
   },
   {
     "name": "Cyberpunk 2077",
     "genre": "Action role-playing",
-    "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Google Stadia"],
+    "console": [
+      "PlayStation 4",
+      "Xbox One",
+      "Microsoft Windows",
+      "Google Stadia"
+    ],
     "release": "December 10, 2020",
     "bio": "Cyberpunk 2077 is an action role-playing game developed and published by CD Projekt. Set in the dystopian Night City, players assume the role of V, a mercenary outlaw searching for a one-of-a-kind implant that holds the key to immortality. The game features a branching storyline and open-world exploration."
   }
