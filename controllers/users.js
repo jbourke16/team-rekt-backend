@@ -3,17 +3,15 @@ import jwt from "jsonwebtoken";
 import User from "../models/User.js";
 
 let SALT_ROUNDS = 11;
-
 let TOKEN_KEY = "reallylonggoodkey";
+
 if (process.env.NODE_ENV === "production") {
   SALT_ROUNDS = Number(process.env.SALT_ROUNDS);
   TOKEN_KEY = process.env.TOKEN_KEY;
 }
 
 const today = new Date();
-
 const exp = new Date(today);
-
 exp.setDate(today.getDate() + 30);
 
 export const signUp = async (req, res) => {
@@ -27,9 +25,10 @@ export const signUp = async (req, res) => {
       email,
       password_digest,
     });
+    console.log(user)
 
     await user.save();
-
+    
     const payload = {
       id: user._id,
       userName: user.userName,
@@ -84,5 +83,29 @@ export const verify = async (req, res) => {
   } catch (error) {
     console.log(error.message);
     res.status(401).send("Not authorized");
+  }
+};
+
+export const getUsers = async (req, res) => {
+  try {
+    const users = await User.find();
+    res.json(users);
+  } catch (error) {
+    console.log(error.message);
+    res.status(500).json({ error: error.message });
+  }
+};
+
+export const getUser = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const user = await User.findById(id);
+    if (user) {
+      return res.json(user);
+    }
+    res.status(404).json({ message: "User not found!" });
+  } catch (error) {
+    console.log(error.message);
+    res.status(500).json({ error: error.message });
   }
 };
