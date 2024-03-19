@@ -1,4 +1,5 @@
 # REK'T (Backend)
+<img src="https://github.com/jbourke16/team-rekt-backend/blob/dev/images/LOGO-MOCK-PINK.png?raw=true" width= "200" height= "auto">
 
 REK'T is a backend interface that hosts data to communicate with REK'T.
 
@@ -92,7 +93,8 @@ Start the server
 ```bash
   npm run dev
 ```
-
+## Entry Relationship Diagram
+>![alt text](https://github.com/jbourke16/team-rekt-backend/blob/dev/images/Data%20Models%20ERD%20(1).png?raw=true)
 
 
 ## Tech Stack
