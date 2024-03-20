@@ -5,6 +5,7 @@ import restrict from "../helpers/restrict.js";
 const router = Router();
 
 router.get("/", controllers.getReviews);
+router.get("/games/:gameId", controllers.getGameReviews)
 router.get("/:id", controllers.getReview);
 router.post("/", restrict, controllers.createReview);
 router.put("/:id", restrict, controllers.updateReview);
