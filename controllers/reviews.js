@@ -10,6 +10,17 @@ export const getReviews = async (req, res) => {
   }
 };
 
+export const getGameReviews = async (req, res) => {
+  try {
+    const { gameId } = req.params
+    const gameReviews = await Review.find({gameId});
+    res.json(gameReviews)
+  } catch (error) {
+    console.log(error.message);
+    res.status(500).json({ error: error.message });
+  }
+}
+
 export const getReview = async (req, res) => {
   try {
     const { id } = req.params;
