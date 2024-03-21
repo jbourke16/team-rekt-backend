@@ -21,6 +21,17 @@ export const getGameReviews = async (req, res) => {
   }
 }
 
+export const getUserReviews = async (req, res) => {
+  try {
+    const { userId } = req.params
+    const userReviews = await Review.find({userId});
+    res.json(userReviews)
+  } catch (error) {
+    console.log(error.message);
+    res.status(500).json({ error: error.message });
+  }
+}
+
 export const getReview = async (req, res) => {
   try {
     const { id } = req.params;
