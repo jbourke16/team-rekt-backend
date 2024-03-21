@@ -11,4 +11,5 @@ router.get("/", controllers.getUsers)
 router.get("/:id", controllers.getUser)
 
 
+
 export default router;
