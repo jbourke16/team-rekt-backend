@@ -22,3 +22,9 @@ export const getGame = async (req, res) => {
     res.status(500).json({ error: error.message });
   }
 };
+
+export const updateGame = async (req, res) => {
+  const { id } = req.params;
+  const review = await Game.findByIdAndUpdate(id, req.body, { new: true });
+  res.status(200).json(review);
+};
