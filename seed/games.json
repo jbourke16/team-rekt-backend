@@ -1,144 +1,987 @@
 [
   {
-    "name": "The Legend of Zelda: Breath of the Wild",
-    "genre": "Action-adventure",
-    "console": ["Nintendo Switch", "Wii U"],
-    "release": "March 3, 2017",
-    "bio": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo. It is the nineteenth installment in The Legend of Zelda series. The game takes place in a large open world environment and follows Link, who awakens from a century-long slumber to defeat Calamity Ganon and save the kingdom of Hyrule.",
-    "image": "https://m.media-amazon.com/images/M/MV5BYjI3MjhiNjMtZjRlOC00MzQyLWEzMGMtZjY0MjhjNjRmMWI4XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg"
+      "name": "Genshin Impact",
+      "genre": "Action RPG",
+      "console": ["PC", "PlayStation 4", "iOS", "Android"],
+      "release": "September 28, 2020",
+      "bio": "Genshin Impact is an action role-playing game developed and published by miHoYo. Set in the fantasy world of Teyvat, players control a traveler who is searching for their lost sibling and unraveling the mysteries of the world. The game features an open-world environment with gacha game mechanics and online multiplayer.",
+      "image": "https://cdn1.epicgames.com/offer/879b0d8776ab46a59a129983ba78f0ce/genshintall_1200x1600-4a5697be3925e8cb1f59725a9830cafc"
+    },
+    {
+      "name": "Ghost of Tsushima",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 4"],
+      "release": "July 17, 2020",
+      "bio": "Ghost of Tsushima is an action-adventure game developed by Sucker Punch Productions and published by Sony Interactive Entertainment. Set in the late 13th century during the Mongol invasion of Japan, players control Jin Sakai, a samurai warrior who must protect Tsushima Island and adopt unconventional tactics to defeat the Mongol forces. The game features an open-world environment inspired by the landscapes of feudal Japan.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg"
+    },
+  {
+      "name": "Death Stranding",
+      "genre": "Action, Adventure",
+      "console": ["PlayStation 4", "PC"],
+      "release": "November 8, 2019",
+      "bio": "Death Stranding is an action game developed by Kojima Productions and published by Sony Interactive Entertainment. Set in the United States following a cataclysmic event, players control Sam Porter Bridges as he embarks on a journey to reconnect isolated cities and save humanity from extinction. The game features innovative mechanics centered around traversal and package delivery.",
+      "image": "https://cdn1.epicgames.com/offer/0a9e3c5ab6684506bd624a849ca0cf39/EGS_DeathStrandingDirectorsCut_KOJIMAPRODUCTIONS_S4_1200x1600-5f99e16507795f9b497716b470cfd876"
+    },
+    {
+      "name": "Halo 5: Guardians",
+      "genre": "First-Person Shooter",
+      "console": ["Xbox One"],
+      "release": "October 27, 2015",
+      "bio": "Halo 5: Guardians is a first-person shooter developed by 343 Industries and published by Microsoft Studios. It is the fifth main entry in the Halo series and the sequel to 2012's Halo 4. Set in the 26th century, the game follows the Master Chief and Spartan Locke as they hunt for the truth behind a military conspiracy. The game features both single-player and multiplayer modes.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Halo_Guardians.png"
+    },
+    {
+      "name": "Resident Evil 7: Biohazard",
+      "genre": "Survival Horror",
+      "console": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "release": "January 24, 2017",
+      "bio": "Resident Evil 7: Biohazard is a survival horror game developed and published by Capcom. It is the tenth major installment in the Resident Evil series and the first to be played from a first-person perspective. Set in a derelict plantation mansion in Louisiana, the game follows Ethan Winters as he searches for his missing wife and encounters the disturbing Baker family.",
+      "image": "https://image.api.playstation.com/cdn/UP0102/CUSA04772_00/cxd9vkFOAHVwwYG7lQKENGkrfyoAChNh.png?w=440"
+    },
+    {
+      "name": "DOOM Eternal",
+      "genre": "First-Person Shooter",
+      "console": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch", "Google Stadia"],
+      "release": "March 20, 2020",
+      "bio": "DOOM Eternal is a first-person shooter developed by id Software and published by Bethesda Softworks. It is the fifth main installment in the DOOM series and the direct sequel to 2016's DOOM. Players assume the role of the Doom Slayer as they battle demonic forces from Hell across multiple dimensions. The game features fast-paced combat and intense action.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/b4Q1XWYaTdJLUvRuALuqr0wP.png"
   },
   {
-    "name": "The Witcher 3: Wild Hunt",
-    "genre": "Action role-playing",
-    "console": [
-      "PlayStation 4",
-      "Xbox One",
-      "Microsoft Windows",
-      "Nintendo Switch"
-    ],
-    "release": "May 19, 2015",
-    "bio": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt. It is the third main installment in The Witcher series. Players control Geralt of Rivia, a monster hunter known as a Witcher, who is searching for his missing adopted daughter on the run from the Wild Hunt: an otherworldly force determined to capture her.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/0/0c/Witcher_3_cover_art.jpg"
-  },
+      "name": "Horizon Zero Dawn",
+      "genre": "Action RPG",
+      "console": ["PlayStation 4", "PC"],
+      "release": "February 28, 2017",
+      "bio": "Horizon Zero Dawn is an action role-playing game developed by Guerrilla Games and published by Sony Interactive Entertainment. Set in a post-apocalyptic world overrun by robotic creatures, players control Aloy, a hunter and archer, as she explores the expansive open world to uncover her past and prevent a future catastrophe. The game features a blend of exploration, combat, and stealth mechanics.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/93/Horizon_Zero_Dawn.jpg"
+    },
+    {
+      "name": "Grand Theft Auto V",
+      "genre": "Action-Adventure",
+      "console": ["PC", "PlayStation 4", "PlayStation 3", "Xbox One", "Xbox 360"],
+      "release": "September 17, 2013",
+      "bio": "Grand Theft Auto V is an action-adventure game developed by Rockstar North and published by Rockstar Games. It is the fifteenth installment in the Grand Theft Auto series and the successor to Grand Theft Auto IV. Set within the fictional state of San Andreas, based on Southern California, the single-player story follows three criminals and their efforts to commit heists while under pressure from a government agency and powerful crime figures.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+    },
+    {
+      "name": "Bloodborne",
+      "genre": "Action RPG",
+      "console": ["PlayStation 4"],
+      "release": "March 24, 2015",
+      "bio": "Bloodborne is an action role-playing game developed by FromSoftware and published by Sony Computer Entertainment. It is set in the gothic, horror-inspired city of Yharnam, whose inhabitants have been afflicted with a blood-borne disease. Players assume the role of a customizable Hunter who embarks on a quest to find the source of the plague and seek redemption. Bloodborne is known for its challenging gameplay, intricate level design, and atmospheric storytelling.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/68/Bloodborne_Cover_Wallpaper.jpg"
+    },
+   {
+      "name": "Final Fantasy VII Remake",
+      "genre": "Action RPG",
+      "console": ["PlayStation 4", "PlayStation 5"],
+      "release": "April 10, 2020",
+      "bio": "Final Fantasy VII Remake is an action role-playing game developed and published by Square Enix. It is a reimagining of the original 1997 PlayStation game Final Fantasy VII, retelling the story of the game's first part set in the dystopian cyberpunk metropolis of Midgar. Players control Cloud Strife, a former member of the elite soldier unit SOLDIER, as he joins the eco-terrorist group AVALANCHE to stop the megacorporation Shinra from draining the planet's life energy.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/ce/FFVIIRemake.png"
+    },
+    {
+      "name": "Final Fantasy VII Rebirth",
+      "genre": "RPG",
+      "console": ["PlayStation 5"],
+      "release": "February 29 2024",
+      "bio": "Final Fantasy VII Rebirth is an action RPG developed and published by Square Enix. The game is a sequel to Final Fantasy VII Remake (2020) and the second in a planned trilogy of games remaking the 1997 PlayStation game Final Fantasy VII. Like its predecessor, the gameplay of Rebirth combines real-time action with strategic and role-playing elements. Set immediately after Remake's events, players control mercenary Cloud Strife and a party of characters principally comprising the eco-terrorist group AVALANCHE, who embark on a journey across the Planet to prevent the megacorporation Shinra from exploiting its life essence, the Lifestream, as an energy source, and defeat former elite SOLDIER Sephiroth, who seeks to unite with the Planet to achieve greater power.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/75/Boxart_for_Final_Fantasy_VII_Rebirth.png"
+    },
+   {
+      "name": "Hades",
+      "genre": "Action Roguelike",
+      "console": ["PC", "Nintendo Switch", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X"],
+      "release": "September 17, 2020",
+      "bio": "Hades is an action roguelike game developed and published by Supergiant Games. Set in the Greek underworld, players control Zagreus, the son of Hades, as he attempts to escape from the realm of the dead. With its fast-paced combat, engaging story, and beautiful art style, Hades has received widespread acclaim and numerous awards.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Hades_cover_art.jpg/220px-Hades_cover_art.jpg"
+    },
+    {
+      "name": "Among Us",
+      "genre": "Social Deduction",
+      "console": ["PC", "Mobile"],
+      "release": "June 15, 2018",
+      "bio": "Among Us is a multiplayer social deduction game developed and published by InnerSloth. Players work together on a space-themed setting to complete tasks while impostors attempt to eliminate them. Through discussion and voting, players must identify and eject the impostors before they sabotage the mission. Among Us gained immense popularity in 2020 and continues to be a favorite among players worldwide.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Among_Us_cover_art.jpg"
+    },
   {
-    "name": "Super Mario Odyssey",
-    "genre": "Platformer",
-    "console": ["Nintendo Switch"],
-    "release": "October 27, 2017",
-    "bio": "Super Mario Odyssey is a platform game developed and published by Nintendo for the Nintendo Switch. It is the sixteenth installment in the Super Mario series. In the game, Mario sets out on a journey through various worlds to rescue Princess Peach from Bowser, who plans to marry her.",
-    "image": "https://assetsio.reedpopcdn.com/co1mxf.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp"
-  },
+      "name": "The Legend of Zelda: Skyward Sword HD",
+      "genre": "Action-Adventure",
+      "console": ["Nintendo Switch"],
+      "release": "July 16, 2021",
+      "bio": "The Legend of Zelda: Skyward Sword HD is an action-adventure game developed and published by Nintendo for the Nintendo Switch. It is an enhanced remaster of the original 2011 Wii game, featuring updated graphics, improved controls, and various quality-of-life improvements. The game follows Link as he embarks on a quest to rescue his childhood friend Zelda and save the land of Skyloft from the forces of evil.",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpubr2rkHubTrFo5Gk3lMXBKLi_LfHcvGY5bEB-R-6LQ&s"
+    },
+    {
+      "name": "Marvel's Spider-Man: Miles Morales",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 4", "PlayStation 5"],
+      "release": "November 12, 2020",
+      "bio": "Marvel's Spider-Man: Miles Morales is an action-adventure game developed by Insomniac Games and published by Sony Interactive Entertainment. It serves as a standalone expansion to the 2018 game Marvel's Spider-Man, focusing on the character Miles Morales as he navigates his new role as a superhero while protecting New York City from various threats. The game features an open-world environment and fast-paced combat.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+    },
+    {
+      "name": "Demon's Souls",
+      "genre": "Action RPG",
+      "console": ["PlayStation 5"],
+      "release": "November 12, 2020",
+      "bio": "Demon's Souls is an action role-playing game developed by Bluepoint Games and published by Sony Interactive Entertainment. It is a remake of the 2009 PlayStation 3 game of the same name, retaining the challenging gameplay and dark fantasy setting of the original while featuring updated graphics, improved performance, and redesigned levels. Players explore the kingdom of Boletaria, battling demons and uncovering the truth behind the land's curse.",
+      "image": "https://image.api.playstation.com/vulcan/img/rnd/202011/1717/GemRaOZaCMhGxQ9dRhnQQyT5.png"
+    },
   {
-    "name": "Red Dead Redemption 2",
-    "genre": "Action-adventure",
-    "console": [
-      "PlayStation 4",
-      "Xbox One",
-      "Microsoft Windows",
-      "Google Stadia"
-    ],
-    "release": "October 26, 2018",
-    "bio": "Red Dead Redemption 2 is an action-adventure game developed and published by Rockstar Games. It is the third entry in the Red Dead series and a prequel to the 2010 game Red Dead Redemption. The game follows Arthur Morgan, a member of the Van der Linde gang, as he deals with the decline of the Wild West and his own moral choices.",
-    "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/be9aa2ef-e61a-4069-b629-a433bfe5d644/de6egex-338a4765-3003-4999-ac39-9f374b40906b.png/v1/fill/w_1600,h_1600,q_80,strp/red_dead_redemption_2_cover_art_by_disintegratorfilms_de6egex-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwMCIsInBhdGgiOiJcL2ZcL2JlOWFhMmVmLWU2MWEtNDA2OS1iNjI5LWE0MzNiZmU1ZDY0NFwvZGU2ZWdleC0zMzhhNDc2NS0zMDAzLTQ5OTktYWMzOS05ZjM3NGI0MDkwNmIucG5nIiwid2lkdGgiOiI8PTE2MDAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.22oMCeeCF0CwhrS67nW49VEQxX8_xwms2J8-hBzVFUE"
-  },
+      "name": "Ghostwire: Tokyo",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 5", "PC"],
+      "release": "October 2021",
+      "bio": "Ghostwire: Tokyo is an action-adventure game developed by Tango Gameworks and published by Bethesda Softworks. Set in a supernatural version of Tokyo, players assume the role of a character who possesses supernatural abilities and must unravel the mystery behind the disappearance of the city's population. The game features first-person combat and exploration of a haunted urban landscape.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/Ghostwire_Tokyo.png"
+    },
+    {
+      "name": "Kena: Bridge of Spirits",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 4", "PlayStation 5", "PC"],
+      "release": "August 24, 2021",
+      "bio": "Kena: Bridge of Spirits is an action-adventure game developed and published by Ember Lab. Players control Kena, a young spirit guide, as she travels through an enchanted forest to uncover the secrets of a forgotten community. Along the way, Kena befriends small creatures called Rot, who help her solve puzzles and battle hostile spirits. The game features stunning visuals and a heartfelt story.",
+      "image": "https://cdn1.epicgames.com/7c53d7dc86494d5abcdc974b0ef0a843/offer/EGS_KenaBridgeofSpirits_EmberLab_S6-1200x1600-e701bd947727ee14b81626c7f9757e4f.jpg"
+    },
+    {
+      "name": "Hitman 3",
+      "genre": "Stealth, Action",
+      "console": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S", "Nintendo Switch"],
+      "release": "January 20, 2021",
+      "bio": "Hitman 3 is a stealth game developed and published by IO Interactive. It is the eighth main installment in the Hitman series and the conclusion to the World of Assassination trilogy. Players once again assume the role of Agent 47 as he travels to various locations around the world to eliminate targets and unravel a conspiracy. Hitman 3 features sandbox-style gameplay and creative assassination opportunities.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hitman_3_Packart.jpg"
+    },
+    {
+      "name": "Outriders",
+      "genre": "Action RPG, Third-Person Shooter",
+      "console": ["PC", "PlayStation 4", "PlayStation 5", "Xbox One", "Xbox Series X/S"],
+      "release": "April 1, 2021",
+      "bio": "Outriders is an action role-playing game developed by People Can Fly and published by Square Enix. Set in a dark sci-fi world, players control customizable characters known as Outriders, who possess superhuman abilities. The game features cooperative multiplayer for up to three players, as well as a deep loot and gear customization system.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/de/Outriders_cover_art.jpg"
+    },
+    {
+      "name": "Astro's Playroom",
+      "genre": "Platformer",
+      "console": ["PlayStation 5"],
+      "release": "November 12, 2020",
+      "bio": "Astro's Playroom is a platformer game developed by SIE Japan Studio's Team Asobi division and bundled with every PlayStation 5 console. The game serves as a showcase for the DualSense controller's features, with players guiding the character Astro through various levels inspired by PlayStation hardware. Astro's Playroom celebrates the history of PlayStation while providing a fun and nostalgic gameplay experience.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202010/2012/T3h5aafdjR8k7GJAG82832De.png"
+    },
   {
-    "name": "Overwatch",
-    "genre": "First-person shooter",
-    "console": [
-      "PlayStation 4",
-      "Xbox One",
-      "Microsoft Windows",
-      "Nintendo Switch"
-    ],
-    "release": "May 24, 2016",
-    "bio": "Overwatch is a team-based multiplayer first-person shooter developed and published by Blizzard Entertainment. The game features a diverse cast of heroes, each with their own unique abilities, and players work together in teams to complete objectives. Overwatch emphasizes cooperative gameplay and teamwork.",
-    "image": "https://cdna.artstation.com/p/assets/images/images/046/385/580/large/steamboy-aoo-cover-colorfinal-copy.jpg?1644997410"
+    "name": "Baldur's Gate 3",
+    "genre": "Role-Playing",
+    "console": ["PC", "PlayStation 5", "Xbox One"],
+    "release": "August 31, 2023",
+    "bio": "Baldur's Gate 3 is a 2023 role-playing video game developed and published by Larian Studios. The game is the third main installment in the Baldur's Gate series, based on the tabletop fantasy role-playing system of Dungeons & Dragons. Gather your party, and return to the Forgotten Realms in a tale of fellowship and betrayal, sacrifice and survival, and the lure of absolute power. Mysterious abilities are awakening inside you, drawn from a Mind Flayer parasite planted in your brain. Resist, and turn darkness against itself. Or embrace corruption, and become ultimate evil.",
+    "image": "//image.api.playstation.com/vulcan/ap/rnd/202302/2321/3098481c9164bb5f33069b37e49fba1a572ea3b89971ee7b.jpg"
   },
+    {
+      "name": "Monster Hunter Rise",
+      "genre": "Action RPG",
+      "console": ["Nintendo Switch", "PC"],
+      "release": "March 26, 2021 (Nintendo Switch), Early 2022 (PC)",
+      "bio": "Monster Hunter Rise is an action role-playing game developed and published by Capcom. Set in a world where players hunt and capture various monsters, the game introduces new gameplay mechanics such as the Wirebug and Palamute companions. Players embark on quests to hunt monsters, gather resources, and craft equipment to become stronger hunters. Monster Hunter Rise received praise for its gameplay improvements and cooperative multiplayer.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1b/Monster_Hunter_World_cover_art.jpg/220px-Monster_Hunter_World_cover_art.jpg"
+    },
+    {
+      "name": "Returnal",
+      "genre": "Third-Person Shooter, Roguelike",
+      "console": ["PlayStation 5"],
+      "release": "April 30, 2021",
+      "bio": "Returnal is a third-person shooter roguelike game developed by Housemarque and published by Sony Interactive Entertainment. Players control Selene, a space pilot, who crash-lands on an alien planet and finds herself trapped in a time loop. Each cycle brings new challenges and enemies, requiring players to adapt and improve their skills to survive and uncover the mysteries of the planet.",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1621/4ItSbqJE88H019Ua3WBQKLF8.png"
+    },
+    {
+      "name": "The Legend of Zelda: Ocarina of Time",
+      "genre": "Action-Adventure",
+      "console": ["Nintendo 64", "Nintendo 3DS"],
+      "release": "November 21, 1998",
+      "bio": "The Legend of Zelda: Ocarina of Time is an action-adventure game developed and published by Nintendo. It is the fifth installment in The Legend of Zelda series and follows Link as he sets out on a quest to stop Ganondorf from obtaining the Triforce and ruling the land of Hyrule.",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/11557_IGDB-272x380.jpg"
+    },
+    {
+      "name": "Super Mario Bros.",
+      "genre": "Platformer",
+      "console": ["Nintendo Entertainment System (NES)"],
+      "release": "September 13, 1985",
+      "bio": "Super Mario Bros. is a platform game developed and published by Nintendo. It is the inaugural game in the Super Mario series and follows Mario as he embarks on a quest to rescue Princess Toadstool from the villainous Bowser.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZDdhNmE3OTQtOGMwMS00MWFmLWE1OTEtNzNlODhiYmExM2IzXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg"
+    },
+    {
+      "name": "The Elder Scrolls V: Skyrim",
+      "genre": "Action RPG",
+      "console": ["PlayStation 3", "Xbox 360", "Microsoft Windows", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "release": "November 11, 2011",
+      "bio": "The Elder Scrolls V: Skyrim is an action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. It is the fifth installment in The Elder Scrolls series and takes place in the province of Skyrim, where the player character must defeat Alduin the World-Eater, a dragon prophesied to destroy the world.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/15/The_Elder_Scrolls_V_Skyrim_cover.png"
+    },
+    {
+      "name": "The Legend of Zelda: Breath of the Wild",
+      "genre": "Action-Adventure",
+      "console": ["Nintendo Switch", "Wii U"],
+      "release": "March 3, 2017",
+      "bio": "The Legend of Zelda: Breath of the Wild is an action-adventure game developed and published by Nintendo. It is the nineteenth installment in The Legend of Zelda series and follows an amnesiac Link, who awakens from a hundred-year slumber to defeat Calamity Ganon and save the kingdom of Hyrule.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c6/The_Legend_of_Zelda_Breath_of_the_Wild.jpg"
+    },
+    {
+      "name": "Tetris",
+      "genre": "Puzzle",
+      "console": ["Various"],
+      "release": "June 6, 1984",
+      "bio": "Tetris is a tile-matching puzzle video game developed by Alexey Pajitnov. It was released on various platforms and has become one of the best-selling video games of all time. Players must manipulate falling tetrominoes to create complete lines and prevent the playing field from filling up.",
+      "image": "https://m.media-amazon.com/images/I/61M3rDwh4qL.png"
+    },
+    {
+      "name": "Minecraft",
+      "genre": "Sandbox, Survival",
+      "console": ["Various"],
+      "release": "November 18, 2011",
+      "bio": "Minecraft is a sandbox video game developed and published by Mojang Studios. Players can build and explore virtual worlds made of blocks in a procedurally generated 3D world. The game features various modes, including survival mode, where players must acquire resources and maintain health, and creative mode, where players have unlimited resources and can fly.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+    },
+    {
+      "name": "Super Mario 64",
+      "genre": "Platformer",
+      "console": ["Nintendo 64"],
+      "release": "June 23, 1996",
+      "bio": "Super Mario 64 is a platform game developed and published by Nintendo for the Nintendo 64. It is the first 3D Mario game and follows Mario as he embarks on a quest to rescue Princess Peach from Bowser by collecting Power Stars in various 3D environments.",
+      "image": "https://www.giantbomb.com/a/uploads/scale_medium/1/12541/3312461-sq_n64_supermario64.jpg"
+    },
+    {
+      "name": "The Witcher 3: Wild Hunt",
+      "genre": "Action RPG",
+      "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Nintendo Switch"],
+      "release": "May 19, 2015",
+      "bio": "The Witcher 3: Wild Hunt is an action role-playing game developed and published by CD Projekt. It is based on The Witcher series of fantasy novels by Andrzej Sapkowski. Players control Geralt of Rivia, a monster hunter known as a Witcher, who is searching for his missing adopted daughter on a sprawling open-world filled with quests and adventures.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Witcher_3_cover_art.jpg/220px-Witcher_3_cover_art.jpg"
+    },
+    {
+      "name": "Final Fantasy VII",
+      "genre": "Role-Playing",
+      "console": ["PlayStation"],
+      "release": "January 31, 1997",
+      "bio": "Final Fantasy VII is a role-playing game developed and published by Square (now Square Enix). It is the seventh main installment in the Final Fantasy series and follows Cloud Strife, a former SOLDIER turned mercenary, as he joins a group called AVALANCHE to stop the megacorporation Shinra from draining the planet's life energy.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTdmZDUzODctNzQ3Zi00MGQzLTliYTUtOGU4Yjc5OGY5ZjRmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg"
+    },
+    {
+      "name": "Red Dead Redemption 2",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 4", "Xbox One", "Microsoft Windows", "Google Stadia"],
+      "release": "October 26, 2018",
+      "bio": "Red Dead Redemption 2 is an action-adventure game developed and published by Rockstar Games. It is the third entry in the Red Dead series and follows Arthur Morgan, a member of the Van der Linde gang in 1899, in the waning years of the American Wild West. The game explores themes of loyalty, morality, and the harsh realities of life on the frontier.",
+      "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
+    },
+    {
+      "name": "Super Mario World",
+      "genre": "Platformer",
+      "console": ["Super Nintendo Entertainment System (SNES)"],
+      "release": "November 21, 1990",
+      "bio": "Super Mario World is a platform game developed and published by Nintendo. It is the fourth main installment in the Super Mario series and follows Mario as he travels across the Mushroom Kingdom to rescue Princess Toadstool from Bowser and his minions.",
+      "image": "https://assets1.ignimgs.com/2019/09/04/super-mario-world---button-fin-1567640652381.jpg"
+    },
+    {
+      "name": "Dark Souls",
+      "genre": "Action RPG",
+      "console": ["PlayStation 3", "Xbox 360", "Microsoft Windows", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "release": "September 22, 2011",
+      "bio": "Dark Souls is an action role-playing game developed by FromSoftware and published by Bandai Namco Entertainment. It is known for its challenging gameplay, intricate level design, and dark fantasy setting. Players must navigate through treacherous environments and defeat powerful enemies while uncovering the mysteries of the world.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8d/Dark_Souls_Cover_Art.jpg"
+    },
+    {
+      "name": "Half-Life 2",
+      "genre": "First-Person Shooter",
+      "console": ["Microsoft Windows", "Xbox", "Xbox 360", "PlayStation 3"],
+      "release": "November 16, 2004",
+      "bio": "Half-Life 2 is a first-person shooter developed and published by Valve. It is the sequel to Half-Life and follows Gordon Freeman as he battles against the alien Combine empire in a dystopian Earth. The game features innovative gameplay mechanics and a compelling narrative.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/25/Half-Life_2_cover.jpg"
+    },
+    {
+      "name": "Portal",
+      "genre": "Puzzle-Platformer",
+      "console": ["Microsoft Windows", "Xbox 360", "PlayStation 3"],
+      "release": "October 10, 2007",
+      "bio": "Portal is a puzzle-platform game developed and published by Valve. Players control Chell, a test subject in the Aperture Science Enrichment Center, as she navigates through a series of test chambers using a portal gun that can create inter-spatial portals. The game is known for its unique gameplay mechanics and dark humor.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9f/Portal_standalonebox.jpg"
+    },
+    {
+      "name": "Chrono Trigger",
+      "genre": "Role-Playing",
+      "console": ["Super Nintendo Entertainment System (SNES)", "PlayStation", "Nintendo DS", "iOS", "Android"],
+      "release": "March 11, 1995",
+      "bio": "Chrono Trigger is a role-playing game developed and published by Square (now Square Enix). It follows a group of adventurers as they travel through time to prevent a global catastrophe. The game is praised for its innovative gameplay, multiple endings, and memorable characters.",
+      "image": "https://play-lh.googleusercontent.com/3ysxd7DbiXcWFEmSYAASw7lBUmxv0HKQI591qLBWErue9U0cQs67qyfa_5eElpVVqWVp"
+    },
+    {
+      "name": "Metal Gear Solid",
+      "genre": "Stealth Action",
+      "console": ["PlayStation"],
+      "release": "October 21, 1998",
+      "bio": "Metal Gear Solid is a stealth action game developed and published by Konami. Players control Solid Snake, a special forces operative, as he infiltrates a nuclear weapons facility to neutralize a terrorist threat. The game is known for its cinematic presentation and complex storyline.",
+      "image": "https://assets-prd.ignimgs.com/2022/08/15/metal-gear-solid-1660604991900.jpg"
+    },
+    {
+      "name": "Halo: Combat Evolved",
+      "genre": "First-Person Shooter",
+      "console": ["Xbox", "Microsoft Windows", "Mac OS X"],
+      "release": "November 15, 2001",
+      "bio": "Halo: Combat Evolved is a first-person shooter developed by Bungie and published by Microsoft Game Studios. It is the first installment in the Halo franchise and follows the super soldier Master Chief as he battles against the alien Covenant on the ringworld known as Halo. The game was critically acclaimed for its gameplay, graphics, and multiplayer.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/80/Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg/220px-Halo_-_Combat_Evolved_%28XBox_version_-_box_art%29.jpg"
+    },
+    {
+      "name": "Pokémon Red",
+      "genre": "Role-Playing",
+      "console": ["Game Boy"],
+      "release": "September 28, 1998",
+      "bio": "Pokémon Red is a role-playing game developed by Game Freak and published by Nintendo. It is one of the first installments in the Pokémon series and follows a young Pokémon Trainer as they capture and train creatures called Pokémon to become the Pokémon Champion. The game was highly successful and spawned a multi-billion dollar franchise.",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDE2MmE1ZTQtNjQ1YS00YzQ2LTk5YTktMWViNzg4ZTA0ZmQwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg"
+    },
+    {
+      "name": "Mass Effect 2",
+      "genre": "Action RPG",
+      "console": ["Microsoft Windows", "Xbox 360", "PlayStation 3"],
+      "release": "January 26, 2010",
+      "bio": "Mass Effect 2 is an action role-playing game developed by BioWare and published by Electronic Arts. It is the second installment in the Mass Effect series and follows Commander Shepard as they assemble a team of elite operatives to stop the Collectors, an alien race abducting human colonies. The game is known for its deep storytelling, character development, and player choices.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/05/MassEffect2_cover.PNG"
+    },
   {
-    "name": "Minecraft",
-    "genre": "Sandbox, survival",
-    "console": ["Multiple platforms"],
-    "release": "November 18, 2011",
-    "bio": "Minecraft is a sandbox video game developed and published by Mojang Studios. Players can build and explore virtual worlds made up of blocks and engage in various activities such as crafting, resource gathering, and combat. The game has a creative mode where players have unlimited resources to build and a survival mode where they must fend off enemies and manage resources.",
-    "image": "https://static.wikia.nocookie.net/minecraft_gamepedia/images/a/a2/MC_square_key_art.jpg/revision/latest/scale-to-width-down/1000?cb=20211026132526"
-  },
+      "name": "The Last of Us",
+      "genre": "Action-Adventure, Survival Horror",
+      "console": ["PlayStation 3", "PlayStation 4"],
+      "release": "June 14, 2013",
+      "bio": "The Last of Us is an action-adventure and survival horror game developed by Naughty Dog and published by Sony Computer Entertainment. Set in a post-apocalyptic United States, the game follows Joel, a smuggler, and Ellie, a young girl with immunity to the infection that has decimated humanity, as they journey across the country to reach a resistance group known as the Fireflies.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/46/Video_Game_Cover_-_The_Last_of_Us.jpg"
+    },
+    {
+      "name": "Bioshock",
+      "genre": "First-Person Shooter, Action RPG",
+      "console": ["Microsoft Windows", "Xbox 360", "PlayStation 3"],
+      "release": "August 21, 2007",
+      "bio": "Bioshock is a first-person shooter and action RPG developed by 2K Boston (now Irrational Games) and published by 2K Games. The game is set in the underwater city of Rapture, where the player character, Jack, must navigate the dystopian environment and uncover its secrets.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/6/6d/BioShock_cover.jpg"
+    },
+    {
+      "name": "Super Metroid",
+      "genre": "Action-Adventure",
+      "console": ["Super Nintendo Entertainment System (SNES)"],
+      "release": "March 19, 1994",
+      "bio": "Super Metroid is an action-adventure game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). Players control the bounty hunter Samus Aran as she explores the planet Zebes to retrieve a stolen Metroid specimen.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/07/supermetroid-1638920229201.jpg"
+    },
+    {
+      "name": "Doom (1993)",
+      "genre": "First-Person Shooter",
+      "console": ["Microsoft DOS", "Multiple platforms"],
+      "release": "December 10, 1993",
+      "bio": "Doom is a first-person shooter game developed by id Software and published by GT Interactive Software. It is one of the pioneering games in the genre and is known for its fast-paced gameplay, atmospheric levels, and multiplayer deathmatches.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/57/Doom_cover_art.jpg"
+    },
+    {
+      "name": "Shadow of the Colossus",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 2", "PlayStation 3", "PlayStation 4"],
+      "release": "October 18, 2005",
+      "bio": "Shadow of the Colossus is an action-adventure game developed by Team Ico and published by Sony Computer Entertainment. Players control Wander, a young man who enters a forbidden land and must defeat sixteen massive creatures known as colossi to resurrect a girl named Mono.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/Shadow_of_the_Colossus_%282005%29_cover.jpg/220px-Shadow_of_the_Colossus_%282005%29_cover.jpg"
+    },
+    {
+      "name": "Street Fighter II",
+      "genre": "Fighting",
+      "console": ["Arcade", "Super Nintendo Entertainment System (SNES)", "Sega Genesis", "Multiple others"],
+      "release": "February 6, 1991",
+      "bio": "Street Fighter II is a fighting game developed and published by Capcom. It is one of the most influential titles in the fighting game genre and features a roster of characters from around the world, each with their unique fighting styles.",
+      "image": "https://howlongtobeat.com/games/9640-streetfighter-ii-wii_large.jpg"
+    },
+    {
+      "name": "Diablo II",
+      "genre": "Action RPG",
+      "console": ["Microsoft Windows", "Mac OS"],
+      "release": "June 29, 2000",
+      "bio": "Diablo II is an action role-playing game developed and published by Blizzard Entertainment. Players journey through the dark fantasy world of Sanctuary, battling monsters and completing quests to defeat the Prime Evils and their minions.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Diablo_II_Coverart.png"
+    },
+    {
+      "name": "Sonic the Hedgehog",
+      "genre": "Platformer",
+      "console": ["Sega Genesis", "Multiple others"],
+      "release": "June 23, 1991",
+      "bio": "Sonic the Hedgehog is a platform game developed by Sonic Team and published by Sega. Players control Sonic, a blue anthropomorphic hedgehog, as he races through levels to stop the evil Dr. Robotnik from taking over the world.",
+      "image": "https://assets-prd.ignimgs.com/2022/02/07/sonic1-sq-1644268190097.jpg"
+    },
+    {
+      "name": "Fallout 3",
+      "genre": "Action RPG",
+      "console": ["Microsoft Windows", "PlayStation 3", "Xbox 360"],
+      "release": "October 28, 2008",
+      "bio": "Fallout 3 is an action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. Set in a post-apocalyptic Washington, D.C., players take on the role of a Vault dweller who must navigate the treacherous wasteland, complete quests, and interact with various factions.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/83/Fallout_3_cover_art.PNG"
+    },
+    {
+      "name": "Civilization VI",
+      "genre": "Turn-Based Strategy",
+      "console": ["Microsoft Windows", "Mac OS", "Linux", "iOS", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+      "release": "October 21, 2016",
+      "bio": "Civilization VI is a turn-based strategy game developed by Firaxis Games and published by 2K Games. Players build and expand their own civilization across a map, researching technologies, building cities, and engaging in diplomacy, trade, and warfare.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/14/civ4-1639520294123.jpg"
+    },
   {
-    "name": "The Last of Us Part II",
-    "genre": "Action-adventure, survival horror",
-    "console": ["PlayStation 4"],
-    "release": "June 19, 2020",
-    "bio": "The Last of Us Part II is an action-adventure game developed by Naughty Dog and published by Sony Interactive Entertainment. It is the sequel to the 2013 game The Last of Us. Set five years after the events of the first game, players control Ellie as she embarks on a quest for revenge in a post-apocalyptic United States.",
-    "image": "https://image.api.playstation.com/vulcan/img/rnd/202010/2618/w48z6bzefZPrRcJHc7L8SO66.png"
-  },
+      "name": "Fortnite",
+      "genre": "Battle Royale, Survival",
+      "console": ["Microsoft Windows", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android"],
+      "release": "July 25, 2017",
+      "bio": "Fortnite is a battle royale and survival game developed and published by Epic Games. Players are dropped onto an island where they must gather resources, build structures, and eliminate opponents to be the last one standing.",
+      "image": "https://static-cdn.jtvnw.net/ttv-boxart/33214-272x380.jpg"
+    },
+    {
+      "name": "Overwatch",
+      "genre": "First-Person Shooter",
+      "console": ["Microsoft Windows", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "release": "May 24, 2016",
+      "bio": "Overwatch is a team-based multiplayer first-person shooter game developed and published by Blizzard Entertainment. Players select from a roster of heroes, each with their unique abilities, and compete in objective-based game modes.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/51/Overwatch_cover_art.jpg/220px-Overwatch_cover_art.jpg"
+    },
+    {
+      "name": "Final Fantasy VI",
+      "genre": "Role-Playing",
+      "console": ["Super Nintendo Entertainment System (SNES)"],
+      "release": "April 2, 1994",
+      "bio": "Final Fantasy VI is a role-playing game developed and published by Square (now Square Enix). It follows a group of rebels as they attempt to overthrow a corrupt empire. The game features a large cast of characters and a complex storyline.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/06/ff6-1638828231333.png"
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 2", "Xbox", "Microsoft Windows", "PlayStation 3", "Xbox 360", "iOS", "Android"],
+      "release": "October 26, 2004",
+      "bio": "Grand Theft Auto: San Andreas is an action-adventure game developed by Rockstar North and published by Rockstar Games. Set in the fictional state of San Andreas, the game follows the story of Carl 'CJ' Johnson as he navigates the criminal underworld.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/GTASABOX.jpg/220px-GTASABOX.jpg"
+    },
+    {
+      "name": "Batman: Arkham City",
+      "genre": "Action-Adventure",
+      "console": ["Microsoft Windows", "PlayStation 3", "Xbox 360", "Wii U", "PlayStation 4", "Xbox One"],
+      "release": "October 18, 2011",
+      "bio": "Batman: Arkham City is an action-adventure game developed by Rocksteady Studios and published by Warner Bros. Interactive Entertainment. Players control Batman as he navigates Arkham City, a massive open-world prison, to stop the plans of various villains.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/0/00/Batman_Arkham_City_Game_Cover.jpg"
+    },
+    {
+      "name": "Castlevania: Symphony of the Night",
+      "genre": "Action-Adventure, Metroidvania",
+      "console": ["PlayStation", "Sega Saturn", "Xbox 360", "PlayStation Portable", "PlayStation 4", "Xbox One"],
+      "release": "October 2, 1997",
+      "bio": "Castlevania: Symphony of the Night is an action-adventure game developed and published by Konami. Players control Alucard, a vampire hunter, as he explores Dracula's castle and uncovers its secrets. The game is known for its nonlinear gameplay and RPG elements.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/14/castlevaniasymp-1639445441428.jpg"
+    },
+    {
+      "name": "Super Smash Bros. Ultimate",
+      "genre": "Fighting, Party",
+      "console": ["Nintendo Switch"],
+      "release": "December 7, 2018",
+      "bio": "Super Smash Bros. Ultimate is a crossover fighting game developed by Bandai Namco Studios and Sora Ltd. and published by Nintendo. It features a large roster of characters from various video game franchises and includes both single-player and multiplayer modes.",
+      "image": "https://cdn.dekudeals.com/images/39c52595f9a6cfc29d26ea41e9e0ac6e1aa5d2c5/w500.jpg"
+    },
+    {
+      "name": "Resident Evil 4",
+      "genre": "Survival Horror, Third-Person Shooter",
+      "console": ["GameCube", "PlayStation 2", "Microsoft Windows", "Wii", "PlayStation 3", "Xbox 360", "PlayStation 4", "Xbox One", "Nintendo Switch", "iOS", "Android"],
+      "release": "January 11, 2005",
+      "bio": "Resident Evil 4 is a survival horror game developed and published by Capcom. Players control Leon S. Kennedy as he investigates the disappearance of the president's daughter in a rural village in Europe. The game features an over-the-shoulder perspective and action-oriented gameplay.",
+      "image": "https://m.media-amazon.com/images/M/MV5BM2RhYzI4MjgtZDUxYy00Yzk5LWI3ZDYtYmZiMzgwNDY3OTFiXkEyXkFqcGdeQXVyMTU2OTE4Mzky._V1_.jpg"
+    },
+    {
+      "name": "The Legend of Zelda: A Link to the Past",
+      "genre": "Action-Adventure",
+      "console": ["Super Nintendo Entertainment System (SNES)"],
+      "release": "November 21, 1991",
+      "bio": "The Legend of Zelda: A Link to the Past is an action-adventure game developed and published by Nintendo for the Super Nintendo Entertainment System (SNES). Players control Link as he embarks on a quest to rescue Princess Zelda and defeat the evil sorcerer Ganon.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/15/legendofzelda-linktothepast-1639586882982.jpg"
+    },
+    {
+      "name": "Uncharted 2: Among Thieves",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 3", "PlayStation 4"],
+      "release": "October 13, 2009",
+      "bio": "Uncharted 2: Among Thieves is an action-adventure game developed by Naughty Dog and published by Sony Computer Entertainment. Players control Nathan Drake as he embarks on a quest to find the mythical city of Shambhala and recover the Cintamani Stone.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/10/uncharted2-1639126191037.jpeg"
+    },
   {
-    "name": "Fortnite",
-    "genre": "Battle royale, sandbox",
-    "console": [
-      "PlayStation 4",
-      "Xbox One",
-      "Microsoft Windows",
-      "Nintendo Switch",
-      "iOS",
-      "Android"
-    ],
-    "release": "July 25, 2017",
-    "bio": "Fortnite is a battle royale game developed and published by Epic Games. Players skydive onto an island and scavenge for weapons and resources to defend themselves from other players and survive. The game also features a creative mode where players can build structures and design their own games.",
-    "image": "https://e.snmc.io/lk/l/x/ac613229bf8872bdb94b0206b50c37b9/10934087"
-  },
+      "name": "Journey",
+      "genre": "Adventure",
+      "console": ["PlayStation 3", "PlayStation 4"],
+      "release": "March 13, 2012",
+      "bio": "Journey is an adventure game developed by Thatgamecompany and published by Sony Computer Entertainment. Players control a robed figure in a vast desert, journeying towards a mountain in the distance. The game focuses on exploration and cooperation with other players.",
+      "image": "https://static.wikia.nocookie.net/journeygame/images/a/a7/Slider-journey.jpg/revision/latest?cb=20110721233637"
+    },
+    {
+      "name": "Super Mario Odyssey",
+      "genre": "Platformer",
+      "console": ["Nintendo Switch"],
+      "release": "October 27, 2017",
+      "bio": "Super Mario Odyssey is a platform game developed and published by Nintendo for the Nintendo Switch. Players control Mario as he travels across various worlds, collecting Power Moons to power his airship and rescue Princess Peach from Bowser.",
+      "image": "https://img.redbull.com/images/c_crop,x_1560,y_0,h_3574,w_2859/c_fill,w_450,h_600/q_auto:low,f_auto/redbullcom/2017/10/26/c12d0d43-4943-4cd3-ab1b-3cf654452046/super-mario-odyssey-5-secrets"
+    },
+    {
+      "name": "Metal Gear Solid 3: Snake Eater",
+      "genre": "Stealth Action-Adventure",
+      "console": ["PlayStation 2", "PlayStation 3", "Xbox 360", "Nintendo 3DS", "PlayStation Vita", "PlayStation Now"],
+      "release": "November 17, 2004",
+      "bio": "Metal Gear Solid 3: Snake Eater is a stealth action-adventure game developed by Konami. Set during the Cold War, players control Naked Snake as he infiltrates the Soviet Union to rescue a defecting scientist and prevent a nuclear catastrophe.",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTZmNGFkYWEtMmZjYS00MjRhLWJkZDAtNGQ5MGViNjEyYzA5XkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_.jpg"
+    },
+    {
+      "name": "The Sims",
+      "genre": "Life Simulation",
+      "console": ["Microsoft Windows", "Mac OS", "PlayStation 2", "Xbox", "GameCube"],
+      "release": "February 4, 2000",
+      "bio": "The Sims is a life simulation game developed by Maxis and published by Electronic Arts. Players create and control virtual characters known as Sims, guiding them through various activities and life events such as building homes, forming relationships, and pursuing careers.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/22/The_Sims_Coverart.png"
+    },
+    {
+      "name": "Call of Duty 4: Modern Warfare",
+      "genre": "First-Person Shooter",
+      "console": ["Microsoft Windows", "PlayStation 3", "Xbox 360"],
+      "release": "November 5, 2007",
+      "bio": "Call of Duty 4: Modern Warfare is a first-person shooter game developed by Infinity Ward and published by Activision. Set in a modern-day conflict, the game follows two factions, the British SAS and the USMC, as they combat terrorism in various global hotspots.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5f/Call_of_Duty_4_Modern_Warfare.jpg"
+    },
+    {
+      "name": "Star Wars: Knights of the Old Republic",
+      "genre": "Role-Playing",
+      "console": ["Xbox", "Microsoft Windows", "macOS", "iOS", "Android"],
+      "release": "July 15, 2003",
+      "bio": "Star Wars: Knights of the Old Republic is a role-playing game developed by BioWare and published by LucasArts. Set thousands of years before the Star Wars films, players embark on an epic journey to defeat the Sith and determine the fate of the galaxy.",
+      "image": "https://lumiere-a.akamaihd.net/v1/images/game_poster_knightsoftheoldrepub_1_d341747d.jpeg?region=0,0,500,750"
+    },
+    {
+      "name": "God of War (2018)",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 4"],
+      "release": "April 20, 2018",
+      "bio": "God of War is an action-adventure game developed by Santa Monica Studio and published by Sony Interactive Entertainment. It is a soft reboot of the God of War series, focusing on the relationship between Kratos and his son Atreus as they journey through the realms of Norse mythology.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a7/God_of_War_4_cover.jpg"
+    },
+    {
+      "name": "Civilization V",
+      "genre": "Turn-Based Strategy",
+      "console": ["Microsoft Windows", "OS X", "Linux"],
+      "release": "September 21, 2010",
+      "bio": "Sid Meier's Civilization V is a turn-based strategy game developed by Firaxis Games and published by 2K Games. Players build and expand their own civilization from ancient times to the modern era, competing with other civilizations for dominance.",
+      "image": "https://assets-prd.ignimgs.com/2022/01/12/civ5-sq-1641950016437.jpg"
+    },
+    {
+      "name": "Counter-Strike: Global Offensive",
+      "genre": "First-Person Shooter",
+      "console": ["Microsoft Windows", "OS X", "Linux", "PlayStation 3", "Xbox 360"],
+      "release": "August 21, 2012",
+      "bio": "Counter-Strike: Global Offensive is a multiplayer first-person shooter game developed and published by Valve and Hidden Path Entertainment. Players compete in teams to complete objectives such as planting bombs or rescuing hostages.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/CSGOcoverMarch2020.jpg/220px-CSGOcoverMarch2020.jpg"
+    },
   {
-    "name": "Call of Duty: Modern Warfare",
-    "genre": "First-person shooter",
-    "console": ["PlayStation 4", "Xbox One", "Microsoft Windows"],
-    "release": "October 25, 2019",
-    "bio": "Call of Duty: Modern Warfare is a first-person shooter game developed by Infinity Ward and published by Activision. It is a reboot of the Modern Warfare sub-series and features a more realistic and mature tone compared to previous entries. The game includes a single-player campaign, multiplayer modes, and cooperative Spec Ops mode.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Call_of_Duty_-_Modern_Warfare_Remastered.jpeg"
-  },
+      "name": "Fire Emblem: Awakening",
+      "genre": "Tactical Role-Playing",
+      "console": ["Nintendo 3DS"],
+      "release": "April 19, 2012",
+      "bio": "Fire Emblem: Awakening is a tactical role-playing game developed by Intelligent Systems and published by Nintendo for the Nintendo 3DS. Players command a group of characters in grid-based battles and engage in strategic combat to defeat enemies and complete objectives.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/4/44/Fire_Emblem_Awakening_box_art.png/220px-Fire_Emblem_Awakening_box_art.png"
+    },
+    {
+      "name": "The Legend of Zelda: Majora's Mask",
+      "genre": "Action-Adventure",
+      "console": ["Nintendo 64", "Nintendo 3DS"],
+      "release": "April 27, 2000",
+      "bio": "The Legend of Zelda: Majora's Mask is an action-adventure game developed and published by Nintendo. Players control Link as he embarks on a quest to stop the moon from crashing into the land of Termina within three days, using time-traveling mechanics and masks with various abilities.",
+      "image": "https://i.guim.co.uk/img/media/0199cf90c61afaf9536d98706d0c81425133f61b/0_1460_4863_2915/master/4863.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=e7d6f428071577c347e313aba9a59074"
+    },
+    {
+      "name": "Mass Effect",
+      "genre": "Action Role-Playing, Third-Person Shooter",
+      "console": ["Xbox 360", "Microsoft Windows", "PlayStation 3"],
+      "release": "November 20, 2007",
+      "bio": "Mass Effect is an action role-playing game developed by BioWare and published by Microsoft Game Studios. Set in the year 2183, players assume the role of Commander Shepard as they explore the galaxy, recruit allies, and combat a threat known as the Reapers.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/MassEffect.jpg"
+    },
+    {
+      "name": "Final Fantasy X",
+      "genre": "Role-Playing",
+      "console": ["PlayStation 2", "PlayStation 3", "PlayStation 4", "PlayStation Vita", "Microsoft Windows", "Nintendo Switch", "Xbox One"],
+      "release": "July 19, 2001",
+      "bio": "Final Fantasy X is a role-playing game developed and published by Square (now Square Enix). Players follow the journey of Tidus, a young athlete transported to the world of Spira, as he joins a group of guardians on a quest to defeat the monster Sin and save the world.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/20/ffx-art-1640032077055.jpg"
+    },
+    {
+      "name": "Minecraft: Java Edition",
+      "genre": "Sandbox, Survival",
+      "console": ["Microsoft Windows", "Mac OS", "Linux"],
+      "release": "November 18, 2011",
+      "bio": "Minecraft: Java Edition is a sandbox survival game developed and published by Mojang Studios. Players explore a blocky, procedurally-generated 3D world, gathering resources, crafting items, and building structures to survive and thrive.",
+      "image": "https://pbs.twimg.com/profile_images/1311304841189363713/9DJuLAXX_400x400.jpg"
+    },
+    {
+      "name": "Baldur's Gate II: Shadows of Amn",
+      "genre": "Role-Playing",
+      "console": ["Microsoft Windows", "Mac OS", "Linux", "iOS", "Android"],
+      "release": "September 24, 2000",
+      "bio": "Baldur's Gate II: Shadows of Amn is a role-playing game developed by BioWare and published by Interplay Entertainment. Set in the Forgotten Realms campaign setting of Dungeons & Dragons, players create a character and embark on a quest to uncover the mysteries surrounding their true identity.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Baldur%27s_Gate_II_-_Shadows_of_Amn_Coverart.png"
+    },
+    {
+      "name": "Fallout: New Vegas",
+      "genre": "Action Role-Playing",
+      "console": ["Microsoft Windows", "PlayStation 3", "Xbox 360"],
+      "release": "October 19, 2010",
+      "bio": "Fallout: New Vegas is an action role-playing game developed by Obsidian Entertainment and published by Bethesda Softworks. Set in a post-apocalyptic Mojave Desert, players assume the role of the Courier as they navigate the warring factions and dangerous wasteland of New Vegas.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/3/34/Fallout_New_Vegas.jpg"
+    },
+    {
+      "name": "Super Mario Galaxy",
+      "genre": "Platformer",
+      "console": ["Wii"],
+      "release": "November 1, 2007",
+      "bio": "Super Mario Galaxy is a platform game developed and published by Nintendo for the Wii console. Players control Mario as he travels through galaxies, collecting Power Stars and rescuing Princess Peach from the villainous Bowser.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/76/SuperMarioGalaxy.jpg"
+    },
+    {
+      "name": "Metroid Prime",
+      "genre": "Action-Adventure, First-Person Shooter",
+      "console": ["Nintendo GameCube", "Wii", "Wii U"],
+      "release": "November 17, 2002",
+      "bio": "Metroid Prime is an action-adventure first-person shooter game developed by Retro Studios and published by Nintendo. Players control the bounty hunter Samus Aran as she explores the planet Tallon IV, battles hostile creatures, and uncovers the mysteries of the Chozo civilization.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/07/metroidprime-1638900247577.png"
+    },
+    {
+      "name": "Persona 5",
+      "genre": "Role-Playing, Social Simulation",
+      "console": ["PlayStation 3", "PlayStation 4"],
+      "release": "September 15, 2016",
+      "bio": "Persona 5 is a role-playing game developed by Atlus. Players assume the role of a high school student known as the Phantom Thief Joker as they navigate daily life in Tokyo and engage in turn-based battles against supernatural enemies known as Shadows.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Persona_5_cover_art.jpg/220px-Persona_5_cover_art.jpg"
+    },
+    {
+      "name": "Dragon Age: Origins",
+      "genre": "Role-Playing",
+      "console": ["Microsoft Windows", "PlayStation 3", "Xbox 360", "Mac OS", "PlayStation 4", "Xbox One"],
+      "release": "November 3, 2009",
+      "bio": "Dragon Age: Origins is a role-playing game developed by BioWare and published by Electronic Arts. Set in the fictional kingdom of Ferelden, players create a character and embark on a quest to defeat the Blight, a monstrous invasion led by the Archdemon.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/89/Dragon_Age_Origins_cover.png"
+    },
   {
-    "name": "Animal Crossing: New Horizons",
-    "genre": "Life simulation",
-    "console": ["Nintendo Switch"],
-    "release": "March 20, 2020",
-    "bio": "Animal Crossing: New Horizons is a life simulation game developed and published by Nintendo. Players move to a deserted island and develop it into a community of anthropomorphic animals. The game features real-time gameplay and emphasizes activities such as fishing, bug catching, and decorating.",
-    "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg"
-  },
+      "name": "The Elder Scrolls IV: Oblivion",
+      "genre": "Action Role-Playing",
+      "console": ["Microsoft Windows", "PlayStation 3", "Xbox 360"],
+      "release": "March 20, 2006",
+      "bio": "The Elder Scrolls IV: Oblivion is an action role-playing game developed by Bethesda Game Studios and published by Bethesda Softworks. Set in the fantasy world of Tamriel, players embark on a quest to stop the daedric prince Mehrunes Dagon from invading the mortal realm of Cyrodiil.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/4b/The_Elder_Scrolls_IV_Oblivion_cover.png"
+    },
+    {
+      "name": "The Witcher 3: Blood and Wine",
+      "genre": "Action Role-Playing",
+      "console": ["Microsoft Windows", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "release": "May 31, 2016",
+      "bio": "The Witcher 3: Blood and Wine is an expansion for the action role-playing game The Witcher 3: Wild Hunt, developed and published by CD Projekt. Set in the land of Toussaint, players embark on a new adventure filled with quests, monsters, and political intrigue.",
+      "image": "https://assets-prd.ignimgs.com/2022/01/05/witcher-3-wild-hunt-blood-and-wine-button-1641371827864.jpg"
+    },
+    {
+      "name": "Grand Theft Auto: Vice City",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 2", "Microsoft Windows", "Xbox", "iOS", "Android"],
+      "release": "October 27, 2002",
+      "bio": "Grand Theft Auto: Vice City is an action-adventure game developed by Rockstar North and published by Rockstar Games. Set in the 1980s, players assume the role of Tommy Vercetti as he rises through the ranks of the criminal underworld in the fictional Vice City.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/ce/Vice-city-cover.jpg"
+    },
+    {
+      "name": "Half-Life",
+      "genre": "First-Person Shooter",
+      "console": ["Microsoft Windows", "PlayStation 2"],
+      "release": "November 19, 1998",
+      "bio": "Half-Life is a first-person shooter game developed by Valve and published by Sierra Studios. Players control the theoretical physicist Gordon Freeman as he navigates the Black Mesa Research Facility, facing off against alien creatures and government soldiers.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fa/Half-Life_Cover_Art.jpg/220px-Half-Life_Cover_Art.jpg"
+    },
+    {
+      "name": "Tetris Effect",
+      "genre": "Puzzle",
+      "console": ["PlayStation 4", "Microsoft Windows"],
+      "release": "November 9, 2018",
+      "bio": "Tetris Effect is a puzzle game developed by Monstars Inc. and Resonair and published by Enhance Games. Players manipulate falling blocks known as Tetriminos to create complete rows and clear the playfield, accompanied by mesmerizing visuals and music.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/ae/Tetris_Effect_cover.jpg"
+    },
+    {
+      "name": "StarCraft II: Wings of Liberty",
+      "genre": "Real-Time Strategy",
+      "console": ["Microsoft Windows", "Mac OS"],
+      "release": "July 27, 2010",
+      "bio": "StarCraft II: Wings of Liberty is a real-time strategy game developed and published by Blizzard Entertainment. Players control one of three factions, the Terrans, Zerg, or Protoss, as they compete for dominance in a distant corner of the galaxy.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/20/StarCraft_II_-_Box_Art.jpg"
+    },
+    {
+      "name": "Donkey Kong Country",
+      "genre": "Platformer",
+      "console": ["Super Nintendo Entertainment System (SNES)"],
+      "release": "November 21, 1994",
+      "bio": "Donkey Kong Country is a platform game developed by Rare and published by Nintendo for the Super Nintendo Entertainment System (SNES). Players control Donkey Kong and his nephew Diddy Kong as they journey to reclaim their stolen banana hoard from the villainous King K. Rool.",
+      "image": "https://assets1.ignimgs.com/2019/06/09/donkey-kong-country-1---button-v1-1560099410346.jpg?width=300&crop=1%3A1%2Csmart&auto=webp"
+    },
+    {
+      "name": "Resident Evil 2 (2019)",
+      "genre": "Survival Horror",
+      "console": ["Microsoft Windows", "PlayStation 4", "Xbox One"],
+      "release": "January 25, 2019",
+      "bio": "Resident Evil 2 is a survival horror game developed and published by Capcom. A reimagining of the original 1998 game, players control rookie cop Leon S. Kennedy and college student Claire Redfield as they navigate through the zombie-infested Raccoon City.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Resident_Evil_2_Remake.jpg"
+    },
+    {
+      "name": "Animal Crossing: New Horizons",
+      "genre": "Social Simulation",
+      "console": ["Nintendo Switch"],
+      "release": "March 20, 2020",
+      "bio": "Animal Crossing: New Horizons is a social simulation game developed and published by Nintendo for the Nintendo Switch. Players create and customize their own island paradise, interact with anthropomorphic animal villagers, and engage in various activities such as fishing, bug catching, and decorating.",
+   "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/Animal_Crossing_New_Horizons.jpg"
+    },
+    {
+      "name": "Final Fantasy IX",
+      "genre": "Role-Playing",
+      "console": ["PlayStation", "PlayStation 3", "PlayStation Portable", "PlayStation Vita", "Microsoft Windows", "iOS", "Android", "Nintendo Switch", "Xbox One"],
+      "release": "July 7, 2000",
+      "bio": "Final Fantasy IX is a role-playing game developed and published by Square (now Square Enix). Set in the fantasy world of Gaia, players follow the journey of the thief Zidane Tribal and a colorful cast of characters as they seek to prevent the destruction of their world.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Ffixbox.jpg"
+    },
   {
-    "name": "FIFA 21",
-    "genre": "Sports",
-    "console": [
-      "PlayStation 4",
-      "Xbox One",
-      "Microsoft Windows",
-      "Nintendo Switch"
-    ],
-    "release": "October 9, 2020",
-    "bio": "FIFA 21 is a football simulation game developed and published by Electronic Arts as part of the FIFA series. The game features licensed real-life players, teams, and stadiums from around the world. Players can compete in various modes such as career mode, Ultimate Team, and Volta Football.",
-    "image": "https://cdna.artstation.com/p/assets/images/images/039/550/072/large/ruan-vargas-capa-fifa2021-ps5.jpg?1626229650"
-  },
+      "name": "Silent Hill 2",
+      "genre": "Survival Horror",
+      "console": ["PlayStation 2", "Xbox", "Microsoft Windows", "PlayStation 3", "Xbox 360"],
+      "release": "September 24, 2001",
+      "bio": "Silent Hill 2 is a survival horror game developed by Konami. Players control James Sunderland as he searches for his deceased wife in the mysterious town of Silent Hill, encountering psychological horror and grotesque creatures along the way.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c1/Silent_Hill_2_remake_cover.jpg"
+    },
+    {
+      "name": "The Legend of Zelda: Link's Awakening (2019)",
+      "genre": "Action-Adventure",
+      "console": ["Nintendo Switch"],
+      "release": "September 20, 2019",
+      "bio": "The Legend of Zelda: Link's Awakening is an action-adventure game developed by Grezzo and published by Nintendo for the Nintendo Switch. Players control Link as he explores the mysterious island of Koholint, solving puzzles and battling enemies to awaken the Wind Fish.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/7/74/The_Legend_of_Zelda_Link%27s_Awakening_%282019_video_game%29.jpg"
+    },
+    {
+      "name": "The Elder Scrolls III: Morrowind",
+      "genre": "Action Role-Playing",
+      "console": ["Microsoft Windows", "Xbox"],
+      "release": "May 1, 2002",
+      "bio": "The Elder Scrolls III: Morrowind is an action role-playing game developed by Bethesda Game Studios. Set in the fantasy world of Tamriel, players assume the role of the Nerevarine as they embark on a quest to fulfill prophecies and defeat a malevolent deity known as Dagoth Ur.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/53/MorrowindCOVER.jpg"
+    },
+    {
+      "name": "Halo 3",
+      "genre": "First-Person Shooter",
+      "console": ["Xbox 360", "Xbox One"],
+      "release": "September 25, 2007",
+      "bio": "Halo 3 is a first-person shooter game developed by Bungie and published by Microsoft Game Studios. Players control the Master Chief as he battles the Covenant and the Flood on the ancient Forerunner installation known as the Ark.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b4/Halo_3_final_boxshot.JPG"
+    },
+    {
+      "name": "World of Warcraft",
+      "genre": "Massively Multiplayer Online Role-Playing",
+      "console": ["Microsoft Windows", "Mac OS"],
+      "release": "November 23, 2004",
+      "bio": "World of Warcraft is a massively multiplayer online role-playing game developed and published by Blizzard Entertainment. Set in the fantasy world of Azeroth, players create characters and explore vast landscapes, complete quests, and engage in player versus player combat.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/65/World_of_Warcraft.png"
+    },
+    {
+      "name": "BioShock Infinite",
+      "genre": "First-Person Shooter",
+      "console": ["Microsoft Windows", "PlayStation 3", "Xbox 360", "OS X", "PlayStation 4", "Xbox One"],
+      "release": "March 26, 2013",
+      "bio": "BioShock Infinite is a first-person shooter game developed by Irrational Games and published by 2K Games. Set in the airborne city of Columbia, players control Booker DeWitt as he rescues Elizabeth and unravels the city's dark secrets.",
+   "image": "https://upload.wikimedia.org/wikipedia/en/a/a3/Official_cover_art_for_Bioshock_Infinite.jpg"
+    },
+    {
+      "name": "Star Wars: Battlefront II (2005)",
+      "genre": "First-Person Shooter, Third-Person Shooter",
+      "console": ["Microsoft Windows", "PlayStation 2", "Xbox", "PSP"],
+      "release": "November 1, 2005",
+      "bio": "Star Wars: Battlefront II is a first and third-person shooter game developed by Pandemic Studios and published by LucasArts. Players engage in large-scale battles across iconic Star Wars locations, controlling soldiers, vehicles, and heroes from the Star Wars universe.",
+   "image": "https://upload.wikimedia.org/wikipedia/en/e/ea/StarWarsBattlefront2_PC.jpg"
+    },
+    {
+      "name": "Celeste",
+      "genre": "Platformer",
+      "console": ["Microsoft Windows", "Mac OS", "Linux", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "release": "January 25, 2018",
+      "bio": "Celeste is a platform game developed by Maddy Makes Games. Players control Madeline as she ascends the eponymous Celeste Mountain, overcoming challenging obstacles and confronting her inner demons along the way.",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Celeste_box_art_full.png/440px-Celeste_box_art_full.png"
+    },
+    {
+      "name": "The Legend of Zelda: Twilight Princess",
+      "genre": "Action-Adventure",
+      "console": ["GameCube", "Wii", "Wii U"],
+      "release": "November 19, 2006",
+      "bio": "The Legend of Zelda: Twilight Princess is an action-adventure game developed and published by Nintendo. Players control Link as he battles the forces of darkness in the parallel realm of Twilight, aided by the mysterious creature Midna.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/The_Legend_of_Zelda_Twilight_Princess_Game_Cover.jpg"
+    },
+    {
+      "name": "Metal Gear Solid 2: Sons of Liberty",
+      "genre": "Stealth Action-Adventure",
+      "console": ["PlayStation 2", "Microsoft Windows", "PlayStation 3", "Xbox 360", "PlayStation Vita"],
+      "release": "November 13, 2001",
+      "bio": "Metal Gear Solid 2: Sons of Liberty is a stealth action-adventure game developed by Konami. Players control Raiden as he infiltrates an offshore facility to prevent the theft of a new weapon known as Metal Gear RAY, encountering a conspiracy along the way.",
+      "image": "https://assets-prd.ignimgs.com/2021/12/21/mgs2-1640128915245.jpg"
+    },
   {
-    "name": "Assassin's Creed Valhalla",
-    "genre": "Action-adventure, stealth",
-    "console": [
-      "PlayStation 4",
-      "Xbox One",
-      "PlayStation 5",
-      "Xbox Series X/S",
-      "Microsoft Windows"
-    ],
-    "release": "November 10, 2020",
-    "bio": "Assassin's Creed Valhalla is an action-adventure game developed and published by Ubisoft. Set in the Viking Age, players control Eivor, a Viking raider who becomes embroiled in the conflict between the Brotherhood of Assassins and the Templar Order. The game features open-world exploration, combat, and stealth mechanics.",
-    "image": "https://i.imgur.com/vDRK2BC.jpeg"
-  },
+      "name": "Grand Theft Auto III",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 2", "Microsoft Windows", "Xbox", "iOS", "Android"],
+      "release": "October 22, 2001",
+      "bio": "Grand Theft Auto III is an action-adventure game developed by DMA Design (now Rockstar North) and published by Rockstar Games. Set in the fictional Liberty City, players assume the role of Claude as he rises through the ranks of organized crime.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/GTA3boxcover.jpg/220px-GTA3boxcover.jpg"
+    },
+    {
+      "name": "Sonic the Hedgehog 2",
+      "genre": "Platformer",
+      "console": ["Sega Genesis", "Sega Master System", "Sega Game Gear"],
+      "release": "November 21, 1992",
+      "bio": "Sonic the Hedgehog 2 is a platform game developed by Sonic Team and published by Sega. Players control Sonic the Hedgehog and his sidekick Tails as they race through levels to stop the evil Dr. Robotnik from conquering the world with the Death Egg.",
+  "image": "https://assets1.ignimgs.com/2020/02/06/sonic-the-hedgehog-2---button-fin-1581013273528.jpg"
+    },
+    {
+      "name": "Banjo-Kazooie",
+      "genre": "Platformer, Adventure",
+      "console": ["Nintendo 64", "Xbox 360"],
+      "release": "June 29, 1998",
+      "bio": "Banjo-Kazooie is a platformer-adventure game developed by Rare and published by Nintendo. Players control Banjo the bear and his bird companion Kazooie as they embark on a quest to rescue Banjo's sister from the witch Gruntilda.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Banjo_Kazooie_Cover.png"
+    },
+    {
+      "name": "Diablo III",
+      "genre": "Action Role-Playing",
+      "console": ["Microsoft Windows", "OS X", "PlayStation 3", "PlayStation 4", "Xbox 360", "Xbox One", "Nintendo Switch"],
+      "release": "May 15, 2012",
+      "bio": "Diablo III is an action role-playing game developed and published by Blizzard Entertainment. Players create a hero and explore dungeons, defeat monsters, and collect loot in order to stop the demonic forces threatening the world of Sanctuary.",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/80/Diablo_III_cover.png"
+    },
+    {
+      "name": "Mega Man 2",
+      "genre": "Platformer",
+      "console": ["Nintendo Entertainment System (NES)"],
+      "release": "December 24, 1988",
+      "bio": "Mega Man 2 is a platform game developed and published by Capcom. Players control the titular character Mega Man as he battles through stages and defeats Robot Masters to stop the evil Dr. Wily and his plans for world domination.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/be/Megaman2_box.jpg"
+    },
+    {
+      "name": "The Witcher 3: Hearts of Stone",
+      "genre": "Action Role-Playing",
+      "console": ["Microsoft Windows", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "release": "October 13, 2015",
+      "bio": "The Witcher 3: Hearts of Stone is an expansion for the action role-playing game The Witcher 3: Wild Hunt, developed and published by CD Projekt. Geralt of Rivia embarks on a new adventure in the wilds of No Man's Land, encountering new characters and facing new challenges.",
+  "image": "https://howlongtobeat.com/games/The-Witcher-3-Wild-Hunt-Hearts-of-Stone-Expansion-Teaser.jpg"
+    },
+    {
+      "name": "Final Fantasy VIII",
+      "genre": "Role-Playing",
+      "console": ["PlayStation", "Microsoft Windows", "PlayStation 4", "Nintendo Switch", "Xbox One"],
+      "release": "February 11, 1999",
+      "bio": "Final Fantasy VIII is a role-playing game developed and published by Square (now Square Enix). Players follow the story of Squall Leonhart and his companions as they become involved in a conflict against the sorceress Edea and her master Ultimecia.",
+   "image": "https://assets-prd.ignimgs.com/2022/01/19/final-fantasy-viii-button-1642628252082.jpg"
+    },
+    {
+      "name": "Star Wars Jedi: Fallen Order",
+      "genre": "Action-Adventure",
+      "console": ["Microsoft Windows", "PlayStation 4", "Xbox One"],
+      "release": "November 15, 2019",
+      "bio": "Star Wars Jedi: Fallen Order is an action-adventure game developed by Respawn Entertainment and published by Electronic Arts. Players control Cal Kestis, a young Jedi Padawan, as he evades the Empire's Inquisitors and seeks to rebuild the Jedi Order.", 
+   "image": "https://image.api.playstation.com/vulcan/img/rnd/202105/1714/WHeOu95nW2SZQy6H5IKgE2Bg.png"
+    },
+    {
+      "name": "Shovel Knight",
+      "genre": "Platformer",
+      "console": ["Microsoft Windows", "OS X", "Linux", "Nintendo 3DS", "Wii U", "PlayStation 3", "PlayStation 4", "PlayStation Vita", "Xbox One", "Nintendo Switch"],
+      "release": "June 26, 2014",
+      "bio": "Shovel Knight is a 2D side-scrolling platform game developed by Yacht Club Games. Players control the eponymous Shovel Knight as he quests to defeat the evil Enchantress and rescue his beloved Shield Knight.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c8/Shovel_knight_cover.jpg"
+    },
+    {
+      "name": "Deus Ex",
+      "genre": "Action Role-Playing, First-Person Shooter",
+      "console": ["Microsoft Windows", "Mac OS", "PlayStation 2", "PlayStation 3"],
+      "release": "June 26, 2000",
+      "bio": "Deus Ex is an action role-playing and first-person shooter game developed by Ion Storm and published by Eidos Interactive. Players control JC Denton, a nano-augmented agent, as he uncovers a global conspiracy in a cyberpunk dystopian future.",
+   "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Deus_Ex_Universe_logo.png"
+    },
   {
-    "name": "Cyberpunk 2077",
-    "genre": "Action role-playing",
-    "console": [
-      "PlayStation 4",
-      "Xbox One",
-      "Microsoft Windows",
-      "Google Stadia"
-    ],
-    "release": "December 10, 2020",
-    "bio": "Cyberpunk 2077 is an action role-playing game developed and published by CD Projekt. Set in the dystopian Night City, players assume the role of V, a mercenary outlaw searching for a one-of-a-kind implant that holds the key to immortality. The game features a branching storyline and open-world exploration.",
-    "image": "https://i.imgur.com/wo4Ew30.jpeg"
-  }
-]
+      "name": "Resident Evil",
+      "genre": "Survival Horror",
+      "console": ["PlayStation", "Microsoft Windows", "Sega Saturn", "Nintendo DS", "GameCube", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+      "release": "March 22, 1996",
+      "bio": "Resident Evil is a survival horror game developed and published by Capcom. Players assume the roles of Chris Redfield and Jill Valentine, members of the elite task force S.T.A.R.S., as they investigate a mysterious mansion infested with zombies and other bio-organic weapons.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Resident_Evil_1_cover.png"
+    },
+    {
+      "name": "Splatoon 2",
+      "genre": "Third-Person Shooter",
+      "console": ["Nintendo Switch"],
+      "release": "July 21, 2017",
+      "bio": "Splatoon 2 is a third-person shooter game developed and published by Nintendo. Players control characters known as Inklings, who can transform between humanoid and squid forms, as they compete in turf wars by covering the arena with their team's ink color.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Splatoon_2.jpg"
+    },
+    {
+      "name": "EarthBound",
+      "genre": "Role-Playing",
+      "console": ["Super Nintendo Entertainment System (SNES)", "Game Boy Advance", "Wii U", "New Nintendo 3DS"],
+      "release": "August 27, 1994",
+      "bio": "EarthBound is a role-playing game developed by Ape and HAL Laboratory and published by Nintendo. Players control a young boy named Ness and his friends as they embark on a quest to stop the alien force known as Giygas from destroying the world.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/1f/EarthBound_Box.jpg"
+    },
+    {
+      "name": "Super Mario Maker 2",
+      "genre": "Platformer",
+      "console": ["Nintendo Switch"],
+      "release": "June 28, 2019",
+      "bio": "Super Mario Maker 2 is a platform game developed and published by Nintendo. Players can create and play their own custom Super Mario courses using a variety of tools and elements from different Mario games.",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c7/Super_Mario_Maker_2.jpg"
+    },
+    {
+      "name": "Persona 4 Golden",
+      "genre": "Role-Playing, Social Simulation",
+      "console": ["PlayStation Vita", "Microsoft Windows"],
+      "release": "June 14, 2012",
+      "bio": "Persona 4 Golden is a role-playing game developed by Atlus. Players assume the role of a high school student who moves to the rural town of Inaba and becomes involved in a series of supernatural murders, using their Persona abilities to solve the mystery.", 
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/10/Shin_Megami_Tensei_Persona_4.jpg"
+    },
+    {
+      "name": "The Legend of Zelda",
+      "genre": "Action-Adventure",
+      "console": ["Nintendo Entertainment System (NES)"],
+      "release": "February 21, 1986",
+      "bio": "The Legend of Zelda is an action-adventure game developed and published by Nintendo. Players control the protagonist Link as he sets out to rescue Princess Zelda and defeat the evil Ganon by collecting eight pieces of the Triforce of Wisdom.", 
+  "image": "https://upload.wikimedia.org/wikipedia/en/4/41/Legend_of_zelda_cover_%28with_cartridge%29_gold.png"
+    },
+    {
+      "name": "The Last Guardian",
+      "genre": "Action-Adventure",
+      "console": ["PlayStation 4"],
+      "release": "December 6, 2016",
+      "bio": "The Last Guardian is an action-adventure game developed by genDESIGN and SIE Japan Studio and published by Sony Interactive Entertainment. Players control a young boy who befriends a giant creature named Trico as they navigate treacherous ruins and solve puzzles.", 
+   "image": "https://upload.wikimedia.org/wikipedia/en/2/25/The_Last_Guardian_cover_art.jpg"
+    },
+    {
+      "name": "Kingdom Hearts II",
+      "genre": "Action Role-Playing",
+      "console": ["PlayStation 2"],
+      "release": "December 22, 2005",
+      "bio": "Kingdom Hearts II is an action role-playing game developed and published by Square Enix. Players control Sora, a young boy who teams up with Disney and Final Fantasy characters to battle the forces of darkness and restore balance to the universe.", 
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/ed/Kingdom_Hearts_II_%28PS2%29.jpg"
+    },
+    {
+      "name": "Monster Hunter: World",
+      "genre": "Action Role-Playing",
+      "console": ["PlayStation 4", "Xbox One", "Microsoft Windows"],
+      "release": "January 26, 2018",
+      "bio": "Monster Hunter: World is an action role-playing game developed and published by Capcom. Players take on the role of a Hunter and explore a vast world teeming with giant monsters, crafting gear and weapons to hunt and slay them.",    
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1b/Monster_Hunter_World_cover_art.jpg"
+    },
+    {
+      "name": "Super Smash Bros. Melee",
+      "genre": "Fighting",
+      "console": ["Nintendo GameCube"],
+      "release": "November 21, 2001",
+      "bio": "Super Smash Bros. Melee is a crossover fighting game developed by HAL Laboratory and published by Nintendo. Players control characters from various Nintendo franchises and compete in battles on dynamic stages, aiming to knock opponents off the screen.",
+      "image": "https://images.igdb.com/igdb/image/upload/t_cover_big/co21yv.jpg"
+    }
+  ]
+  
