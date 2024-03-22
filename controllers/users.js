@@ -130,6 +130,23 @@ export const addFavGame = async (req, res) => {
   }
 }
 
+export const deleteFavGame = async (req, res) => {
+  try {
+    const { gameId } = req.params
+
+    const token = req.headers.authorization.split(" ")[1];
+
+    const payload = jwt.verify(token, TOKEN_KEY);
+    if (payload) {
+      await User.findByIdAndDelete(payload.id, { $filter: { favGames: gameId}})
+      res.json({ message: `Game with id of ${gameId} has been deleted from User's favorites`})
+    }
+  } catch (error) {
+    console.log(error.message);
+    res.status(500).json({ error: error.message });
+  }
+}
+
 export const getFavGames = async (req, res) => {
   try {
     const token = req.headers.authorization.split(" ")[1];
