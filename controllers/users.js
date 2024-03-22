@@ -123,6 +123,8 @@ export const addFavGame = async (req, res) => {
     if (payload) {
       await User.findByIdAndUpdate(payload.id, { $push: { favGames: gameId}})
       res.json({ message: `Game with id of ${gameId} has been added to User's favorites`})
+    } else {
+      res.json({ message: "Unauthorized"})
     }
   } catch (error) {
     console.log(error.message);
@@ -138,8 +140,18 @@ export const deleteFavGame = async (req, res) => {
 
     const payload = jwt.verify(token, TOKEN_KEY);
     if (payload) {
-      await User.findByIdAndDelete(payload.id, { $filter: { favGames: gameId}})
-      res.json({ message: `Game with id of ${gameId} has been deleted from User's favorites`})
+      const user = await User.findById(payload.id);
+
+      if (user){
+        user.favGames = user.favGames.filter(id => id.toString() !== gameId)
+        await user.save()
+        res.json({ message: `Game with id of ${gameId} has been deleted from User's favorites`})
+      } else {
+        res.status(404).json({message: "User not found!"})
+      }
+
+    } else {
+      res.json({ message: "Unauthorized"})
     }
   } catch (error) {
     console.log(error.message);
